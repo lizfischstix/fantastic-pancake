@@ -1,0 +1,20 @@
+build log-in/protected routes
+    //use logic from GameOn
+    //regex for validating @InRiver.com emails only
+<!-- create db of restaurants
+    //allow for associated user reviews
+    //find data with cousine type?
+    //Use lat/long in search to list distance
+    //filter out irrelevant data -->
+Use API from Chicago city data.
+    //
+search function
+    //By name
+    //By cousine --futur dev?
+    //By avg inriver review --futur dev?
+    //by distance
+review function
+    //1-5 raiting
+    //date of experience
+    //comments
+        //attach comments to restaurant name for futur users to view
